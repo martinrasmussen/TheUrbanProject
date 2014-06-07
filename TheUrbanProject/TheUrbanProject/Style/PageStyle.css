@@ -1,0 +1,46 @@
+.pageBody {
+    background-image: linear-gradient(to bottom, #3c3c3c 0, #222 100%);
+    overflow: hidden;
+    padding: 30px;
+    min-height: 800px;
+}
+.bodyh1header {
+    text-indent: 20px;
+    font-style: bold;
+    color: white;
+}
+.text-white {
+    color: white;
+}
+.text-orange {
+    color:orange;
+}
+.employeeImage {
+    float: left;
+    margin-bottom: 20px;
+    border: white 1px solid;
+}
+.employeeText {
+    float: right;
+    color:white;
+    width: auto;
+    padding: 20px;
+}
+.myImage {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.info {
+    height: 120px;
+    padding: 20px;
+}
+#footer {
+    bottom:0;
+    height:40px;
+    /* Height of the footer */
+    background-image: linear-gradient(to bottom, #3c3c3c 0, #222 100%);
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
