@@ -21,7 +21,7 @@ $(document).ready(function () {
     };
 
 
-    console.log(numbers);
+    console.log('numbers; ',numbers);
 
     console.log(users);
     var mapOptions = {

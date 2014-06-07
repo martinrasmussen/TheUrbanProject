@@ -21,7 +21,12 @@ namespace TheUrbanProject
             var numbersJson = new JavaScriptSerializer().Serialize(numbers);
             Session["Users"] = numbersJson;
 
+            }
+
+        public void btnCheck_Click()
+        {
+            Console.WriteLine("Clicked");
         }
-        
+
     }
 }

@@ -11,8 +11,8 @@
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <input type="button" id="btnCheck" class="btn btn-primary controls" type="text" value="Check In">
-    <input id="pac-input" class="controls" type="text" placeholder="Search Box">
+    <input type="button" id="btnCheck" class="btn btn-primary controls" value="Check In" runat="server" OnClientClick="myfunction(); return false;" >
+    <input id="pac-input" class="controls" type="text" placeholder="Search Box" />
     <div id="map-canvas"></div>
 
 
