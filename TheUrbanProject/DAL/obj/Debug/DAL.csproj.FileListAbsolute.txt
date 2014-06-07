@@ -3,3 +3,13 @@
 \\psf\home\documents\visual studio 2013\Projects\TheUrbanProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 \\psf\home\documents\visual studio 2013\Projects\TheUrbanProject\DAL\obj\Debug\DAL.dll
 \\psf\home\documents\visual studio 2013\Projects\TheUrbanProject\DAL\obj\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\bin\Debug\DAL.dll.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\obj\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\DAL\obj\Debug\DAL.pdb
