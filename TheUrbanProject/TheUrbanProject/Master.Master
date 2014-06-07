@@ -1,20 +1,80 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="TheUrbanProject.Master" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head runat="server">
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <!-- LOCAL -->
+    <link rel="stylesheet" href="Style/Maps.css">
+    <link rel="stylesheet" href="Style/PageStyle.css">
+
+
+    <!-- CDN's -->
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
 </head>
+
 <body>
-    <form id="form1" runat="server">
-    <div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        
-        </asp:ContentPlaceHolder>
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-8-lg">
+                <div class="page-header">
+                    <h1>THE URBAN PROJECT
+                        <small class="text-orange"><i>Connecting you to them</i>
+                        </small>
+                    </h1>
+                    <p>UNDER CONSTRUCTION</p>
+                </div>
+                <nav class="navbar navbar-inverse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">Home</a>
+                        </li>
+                        <li><a href="index.html">About us</a>
+                        </li>
+                        <li class="active"><a href="Places.html">Places</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <form id="form1" runat="server">
+                    <div>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </form>
+            </div>
+            <!--End of col-->
+
+        </div>
+        <!--End of row-->
+        <div class="row">
+            <footer id="footer" class="col-lg-8 text-orange">
+                &copy; Copyright 2014 The Urban Project. All rights reserved.
+                <i class="pull-right">Contact us at info@theurbanproject.net</i>
+            </footer>
+        </div>
+
     </div>
-    </form>
+    <!--End of container-->
+
+
+
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
 </body>
 </html>
