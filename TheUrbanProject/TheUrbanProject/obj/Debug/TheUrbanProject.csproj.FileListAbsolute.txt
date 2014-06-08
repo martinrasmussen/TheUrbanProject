@@ -10,3 +10,9 @@
 \\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\TheUrbanProject\obj\Debug\TheUrbanProject.csprojResolveAssemblyReference.cache
 \\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\TheUrbanProject\obj\Debug\TheUrbanProject.dll
 \\psf\Home\Documents\Visual Studio 2013\Projects\TheUrbanProject.git\TheUrbanProject\TheUrbanProject\obj\Debug\TheUrbanProject.pdb
+\\psf\Dropbox\Skole\MS Visual Projekter\TheUrbanProject\TheUrbanProject\TheUrbanProject\bin\TheUrbanProject.dll.config
+\\psf\Dropbox\Skole\MS Visual Projekter\TheUrbanProject\TheUrbanProject\TheUrbanProject\bin\TheUrbanProject.dll
+\\psf\Dropbox\Skole\MS Visual Projekter\TheUrbanProject\TheUrbanProject\TheUrbanProject\bin\TheUrbanProject.pdb
+\\psf\Dropbox\Skole\MS Visual Projekter\TheUrbanProject\TheUrbanProject\TheUrbanProject\obj\Debug\TheUrbanProject.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Skole\MS Visual Projekter\TheUrbanProject\TheUrbanProject\TheUrbanProject\obj\Debug\TheUrbanProject.dll
+\\psf\Dropbox\Skole\MS Visual Projekter\TheUrbanProject\TheUrbanProject\TheUrbanProject\obj\Debug\TheUrbanProject.pdb
